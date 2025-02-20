@@ -1,8 +1,8 @@
-# Elementler Oyunu
+# Karekök Oyunu
 
  
 
-> Elementlerin ifadelerin karşılıklarıyla eşleştirilmesine dayanan hızın ve fen bilgisinin çok önemli olduğu bir oyun
+> Kareköklü ifadelerin karşılıklarıyla eşleştirilmesine dayanan hızın ve matematik bilgisinin çok önemli olduğu bir oyun
 > 
 *Sürümler*
  - 1.0 Oyunun İlkel Hali Yapıldı
